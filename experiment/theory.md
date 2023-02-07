@@ -13,9 +13,9 @@ Where,<br>
             V = Voltage across the standard resistor  <br>
             R = Resistance of standard resistor 
 <br><br>
-Since we are using the standard resistor, the resistance will be accurately known and the voltage across the standard resistor is measured by the potentiometer. The calculated value will be the accurate value of the current flowing through the loop. Then compare this calculated value with ammeter reading to check the accuracy of the ammeter.<br>  
+Since we are using the standard resistor, the resistance will be accurately known and the voltage across the standard resistor is measured by the potentiometer. The calculated value will be the accurate value of the current flowing through the loop. Then compare this calculated value with ammeter reading to check the accuracy of the ammeter.<br> 
 <br>
-![image_amm_by_pote](https://user-images.githubusercontent.com/112646728/217245637-d5946162-f105-408f-a4dc-ca1f8ce65f4e.png)
+
 
 
 <h3>2. Calibration of Voltmeter  </h3><br>
@@ -29,6 +29,5 @@ The figure shows the diagram for the calibration of the voltmeter using a potent
 It consists of a primary circuit that is shown in the above section. The positive terminal of the standard cell is connected to point A in the secondary circuit. Point A is the high potential end. The negative terminal of the standard cell is connected to the first terminal of a two-way key. As shown in the figure, the cell E, key, rheostat, and resistance box is connected in a series connection. One end of the resistance box (high potential end) is connected to the point of high potential AA and the point of the resistance box having low potential is connected to the third terminal of a two-way key.  <br>
 The voltmeter that needs the calibration is connected across the resistance box. The central terminal of the two-way key is connected to a galvanometer. And the other end of the galvanometer is connected with a jockey. <br><br>
 After completing the primary circuit as shown in the diagram, insert the plug between the terminal 1 and the terminal 2. Now we have to find the balancing length for the standard cell 
-  <th (E<sub>s</sub>)>
 
 
