@@ -37,6 +37,6 @@ Note: Calibration should be performed by experienced technicians and with proper
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Dr. ASHUTOSH TIWARI  | FACULTY | Applied Science | Rajkiya Engineering College Banda | ashutosh.tiwari@recbanda.ac.in
-2 | RAHUL PUSHPAKAR | STUDENT | Mechanical Engineering | Rajkiya Engineering College Banda | rahulpushpker@gmail.com
+1 | Dr. ASHUTOSH TIWARI  | FACULTY | APPLIED SCIENCE | RAJKIYA ENGINEERING COLLEGE BANDA | ashutosh.tiwari@recbanda.ac.in
+2 | RAHUL PUSHPAKAR | STUDENT | MECHANICAL ENGINEERING | RAJKIYA ENGINEERING COLLEGE BANDA | rahulpushpker@gmail.com
 
