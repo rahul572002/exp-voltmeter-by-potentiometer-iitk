@@ -15,6 +15,8 @@ Where,<br>
 <br><br>
 Since we are using the standard resistor, the resistance will be accurately known and the voltage across the standard resistor is measured by the potentiometer. The calculated value will be the accurate value of the current flowing through the loop. Then compare this calculated value with ammeter reading to check the accuracy of the ammeter.<br>  
 <br>
+![image_amm_by_pote](https://user-images.githubusercontent.com/112646728/217245637-d5946162-f105-408f-a4dc-ca1f8ce65f4e.png)
+
 
 <h3>2. Calibration of Voltmeter  </h3><br>
 Here we are calibrating a voltmeter. The main errors that are observed in a voltmeter reading are:<br>
