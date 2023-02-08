@@ -7,7 +7,24 @@
         "a": "2.5",
         "b": "25",
         "c": "0.25",
-        "d": "no current will flow "
+        "d": "1.25"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. In a circuit, the current is directly proportional to __________. ",
+      "answers": {
+        "a": "voltage",
+        "b": "resistor",
+        "c": "both a and b",
+        "d": "Temperature"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -19,12 +36,12 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. In a circuit, the current is directly proportional to __________. ",
+      "question": "3. SI unit of potential gradient   ",
       "answers": {
-        "a": "voltage ",
-        "b": "resistor ",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Volt/meter",
+        "b": "Volt meter",
+        "c": "ampere meter",
+        "d": "joule/meter"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -32,16 +49,16 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "4. An ammeter is connected to the circuit   ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Parallel",
+        "b": "Series",
+        "c": "both series and parallel",
+        "d": "none of the above"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -49,7 +66,24 @@
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. Five 10-ohm resistor connected in parallel then its equivalents resistor will be ",
+      "answers": {
+        "a": "2ohm",
+        "b": "10ohm",
+        "c": "50ohm",
+        "d": "25ohm"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
   ]
