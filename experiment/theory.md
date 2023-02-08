@@ -13,12 +13,15 @@ Where,<br>
             V = Voltage across the standard resistor  <br>
             R = Resistance of standard resistor 
 <br><br>
-Since we are using the standard resistor, the resistance will be accurately known and the voltage across the standard resistor is measured by the potentiometer. The calculated value will be the accurate value of the current flowing through the loop. Then compare this calculated value with ammeter reading to check the accuracy of the ammeter.<br> 
+Since we are using the standard resistor, the resistance will be accurately known and the voltage across the standard resistor is measured by the potentiometer. The calculated value will be the accurate value of the current flowing through the loop. Then compare this calculated value with ammeter reading to check the accuracy of the ammeter.<br>
+![image](https://user-images.githubusercontent.com/112646728/217440436-57e47fbc-638d-493f-a1d6-6a74d236d311.png)
+
+<br> 
 <br>
 
 
 
-<h3>2. Calibration of Voltmeter  </h3><br>
+<h3>2. Calibration of Voltmeter </h3><br>
 Here we are calibrating a voltmeter. The main errors that are observed in a voltmeter reading are:<br>
 1. Mechanical errors due to manufacturing defects. <br>
 2. Parallax error <br>
@@ -28,6 +31,44 @@ When we use a potentiometer to check the errors in the observations of a voltmet
 The figure shows the diagram for the calibration of the voltmeter using a potentiometer. 
 It consists of a primary circuit that is shown in the above section. The positive terminal of the standard cell is connected to point A in the secondary circuit. Point A is the high potential end. The negative terminal of the standard cell is connected to the first terminal of a two-way key. As shown in the figure, the cell E, key, rheostat, and resistance box is connected in a series connection. One end of the resistance box (high potential end) is connected to the point of high potential AA and the point of the resistance box having low potential is connected to the third terminal of a two-way key.  <br>
 The voltmeter that needs the calibration is connected across the resistance box. The central terminal of the two-way key is connected to a galvanometer. And the other end of the galvanometer is connected with a jockey. <br><br>
-After completing the primary circuit as shown in the diagram, insert the plug between the terminal 1 and the terminal 2. Now we have to find the balancing length for the standard cell 
-
-
+After completing the primary circuit as shown in the diagram, insert the plug between the terminal 1 and the terminal 2. Now we have to find the balancing length for the standard cell Es. <br>
+Let lo be the balancing length for Es. <br>
+<h4>                     
+<p align="center">
+  Es=k*lo
+</p>
+ </h4>
+Where, <br> k is the potential gradient from the above equation <br>we can write also the above equation, 
+<h4>                     
+<p align="center">
+  k=Es*lo 
+</p>
+ </h4>
+![image](https://user-images.githubusercontent.com/112646728/217443789-4ef7ece6-9e4c-4cb8-8f9d-8738722b0962.png)  
+<br>
+We can find k it by standardizing the cell. <br>
+Now we have to remove the plug between the terminals 1 and 2. And we have to insert it between the terminal 2 and 3. After closing the key K2 stake the suitable resistance from the resistance box. Using the rheostat adjust the current passing through the resistance and note down the deflection of the voltmeter. Let it be Vv. This value will not be accurate, it contains an error. The real value of potential difference can be obtained by the potentiometer. We have to find the corresponding balancing length. Let this balancing length be l2. By applying the principle of the potentiometer, the actual value of potential difference can be written as, <br>
+<h4>                     
+<p align="center">
+  V′=K*l2 
+</p>
+ </h4>
+ We know that the value of k is
+ <h4>                     
+<p align="center">
+  k=Es*lo 
+</p>
+ </h4>
+ Substituting, we get 
+ <h4>                     
+<p align="center">
+   V′=(Es*lo) * l2 
+</p>
+ </h4>
+The error in the value observed by the voltmeter can be written as, 
+  <h4>                     
+<p align="center">
+   ΔV=V−V′ 
+</p>
+ </h4>
+Using the resistance box and the rheostat, different values of voltmeter can be observed. The corresponding potential difference can also be obtained by using the potentiometer. The difference between the observation of the voltmeter and the potential difference by the potentiometer can be used to find the error. 
