@@ -2,29 +2,12 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. What should be the size of slide wire of potentiometer to make achieve high accuracy",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
-      },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
-    },
-    {
-      "question": "This is a Sample Question 2?",
-      "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "As short as possible",
+        "b": "Neither to thin nor to thick",
+        "c": "As long as possible",
+        "d": "1 m"
       },
       "explanations": {
         "a": "Explanation 1  <a href='www.google.com'>here</a>",
@@ -33,7 +16,75 @@
         "d": "Explanation 2"
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "2. The length of wire in the potentiometer is 100 cm with a resistance of 30 ohms. It is connected in series with a resistance of 20 ohms and an accumulator of emf 8V having negligible internal resistance. 1.2 V source balances it against the length ‘L’ of the potentiometer wire. Calculate the length ‘L’ of the wire. ",
+      "answers": {
+        "a": "35cm",
+        "b": "0.25m",
+        "c": "0.45cm",
+        "d": "insufficient data"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "3.The balancing length of a potentiometer is at 120 cm. On shunting the cell with a resistance of 4 ohms, the balancing point shifts to a length of 60 cm. Then, find the internal resistance of the cell. ",
+      "answers": {
+        "a": "2 ohms",
+        "b": "4 ohms",
+        "c": "5 ohms",
+        "d": "3 ohms"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "4. A potentiometer using cell C of emf 5V and internal resistance 0.2 ohms is connected to a <br> wire AB in the figure below. A standard cell C0 of a constant emf of 1.10 V gives a balance point at <br> 55 cm of the wire. When C0 is replaced by a cell of emf E, the balance point is obtained at <br> 85 cm. What is the value of E?  ",
+      "answers": {
+        "a": "1.4",
+        "b": "1.3",
+        "c": "1.6",
+        "d": "1.7"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "d",
+      "difficulty": "intermediate"
+    },
+    {
+      "question": "5. A potentiometer has uniform potential gradient. The specific resistance of the material of the potentiometer wire is 10-9Ωm and the current passing through it is 0.5A and the cross-sectional area of the wire is 10-8m2. Calculate the potential gradient along the potentiometer wire. ",
+      "answers": {
+        "a": "0.5 × 10^-1 V/m",
+        "b": "0.5 × 10^-9 V/m",
+        "c": "0.5 × 10^-14 V/m",
+        "d": "0.5 × 10^-8 V/m"
+      },
+      "explanations": {
+        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "intermediate"
     }
   ]
 }
