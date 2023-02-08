@@ -14,7 +14,8 @@ Where,<br>
             R = Resistance of standard resistor 
 <br><br>
 Since we are using the standard resistor, the resistance will be accurately known and the voltage across the standard resistor is measured by the potentiometer. The calculated value will be the accurate value of the current flowing through the loop. Then compare this calculated value with ammeter reading to check the accuracy of the ammeter.<br>
-![image](https://user-images.githubusercontent.com/112646728/217440436-57e47fbc-638d-493f-a1d6-6a74d236d311.png)
+![Calibration of ammeter by potentiometer](https://user-images.githubusercontent.com/112646728/217450639-0ede29b6-99b9-4f5e-9bd0-cc1f6744852d.png)
+
 
 <br> 
 <br>
