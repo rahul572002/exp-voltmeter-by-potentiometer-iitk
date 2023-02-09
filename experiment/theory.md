@@ -75,3 +75,5 @@ The error in the value observed by the voltmeter can be written as,
 </p>
  </h4>
 Using the resistance box and the rheostat, different values of voltmeter can be observed. The corresponding potential difference can also be obtained by using the potentiometer. The difference between the observation of the voltmeter and the potential difference by the potentiometer can be used to find the error. 
+
+ 
