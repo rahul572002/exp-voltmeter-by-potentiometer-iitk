@@ -14,8 +14,8 @@ Where,<br>
             R = Resistance of standard resistor 
 <br><br>
 Since we are using the standard resistor, the resistance will be accurately known and the voltage across the standard resistor is measured by the potentiometer. The calculated value will be the accurate value of the current flowing through the loop. Then compare this calculated value with ammeter reading to check the accuracy of the ammeter.<br>
-
-<img src="experiment/images/img_amm_b_pot.png">
+<br>
+<img src="images/img_amm_b_pot.png" width="400" hight="450">
 
 <br> 
 <br>
@@ -46,7 +46,7 @@ Where, <br> k is the potential gradient from the above equation <br>we can write
 </p>
  </h4>
  
- <img src="experiment/images/img_volt_b_pot.png">
+ <img src="images/img_volt_b_pot.png" width="400" hight="450">
  
 <br>
 We can find k it by standardizing the cell. <br>
