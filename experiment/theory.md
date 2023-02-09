@@ -45,7 +45,9 @@ Where, <br> k is the potential gradient from the above equation <br>we can write
   k=Es*lo 
 </p>
  </h4>
-![image](https://user-images.githubusercontent.com/112646728/217443789-4ef7ece6-9e4c-4cb8-8f9d-8738722b0962.png)  
+ 
+ <img src="experiment/images/img_volt_b_pot.png">
+ 
 <br>
 We can find k it by standardizing the cell. <br>
 Now we have to remove the plug between the terminals 1 and 2. And we have to insert it between the terminal 2 and 3. After closing the key K2 stake the suitable resistance from the resistance box. Using the rheostat adjust the current passing through the resistance and note down the deflection of the voltmeter. Let it be Vv. This value will not be accurate, it contains an error. The real value of potential difference can be obtained by the potentiometer. We have to find the corresponding balancing length. Let this balancing length be l2. By applying the principle of the potentiometer, the actual value of potential difference can be written as, <br>
