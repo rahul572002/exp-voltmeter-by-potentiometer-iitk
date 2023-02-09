@@ -15,7 +15,7 @@ Where,<br>
 <br><br>
 Since we are using the standard resistor, the resistance will be accurately known and the voltage across the standard resistor is measured by the potentiometer. The calculated value will be the accurate value of the current flowing through the loop. Then compare this calculated value with ammeter reading to check the accuracy of the ammeter.<br>
 
-<img src="">
+<img src="experiment/images/img_amm_b_pot.png">
 
 <br> 
 <br>
