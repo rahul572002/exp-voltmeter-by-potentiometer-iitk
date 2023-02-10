@@ -67,7 +67,19 @@ The assessment method for calibrating the voltmeter and ammeter using a potentio
 
 <u> <b>Description: </b>    </u>
 <br>
-    
+ Calibration of a voltmeter and an ammeter involves adjusting their readings to match the actual voltage and current values in a circuit, respectively. The potentiometer is a commonly used device for calibrating both types of instruments.<br>
+The following steps can be followed to calibrate a voltmeter using a potentiometer:<br><br>
+1. Connect the potentiometer to the circuit in series with the voltmeter.<br>
+2. Adjust the potentiometer to produce a known voltage value, such as 10V.<br>
+3. Read the voltage value displayed on the voltmeter.<br>
+4. If the voltmeter reading is different from the known voltage value, adjust the calibration potentiometer on the voltmeter until the two values match.<br>
+<br>
+Similarly, the following steps can be followed to calibrate an ammeter using a potentiometer:<br><br>
+1. Connect the potentiometer in series with the ammeter and a load.<br>
+2. Adjust the potentiometer to produce a known current value, such as 1A.<br>
+3. Read the current value displayed on the ammeter.<br>  
+4. If the ammeter reading is different from the known current value, adjust the calibration potentiometer on the ammeter until the two values match.<br><br>
+It's important to note that calibrating electrical instruments requires a high degree of precision, and it's recommended that it be performed by a trained technician with the proper equipment and safety precautions.
 
 <br/>
 <div align="right">
