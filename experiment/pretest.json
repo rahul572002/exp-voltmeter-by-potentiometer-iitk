@@ -10,10 +10,10 @@
         "d": "1.25"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 2",
         "b": "Explanation 2",
         "c": "Explanation 2",
-        "d": "Explanation 2"
+        "d": "Explanation 1 <a href='https://wps.prenhall.com/esm_giancoli_physicsppa_6/17/4357/1115571.cw/content/index.html#:~:text=Five%20volts%20is%20applied%20to%20two%202%20ohm%20resistors%20connected,5%20A.'>here</a>"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
@@ -27,7 +27,7 @@
         "d": "Temperature"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1  <a href='nde-ed.org/Physics/Electricity/ohmslaw.xhtml#:~:text=In%20the%20first%20version%20of,inversely%20proportional%20to%20the%20resistance.'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -44,7 +44,7 @@
         "d": "joule/meter"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1  <a href='https://www.google.com/search?q=SI+unit+of+potential+gradient&rlz=1C1UEAD_enIN972IN972&oq=SI+unit+of+potential+gradient&aqs=chrome..69i57j69i59j0i22i30i625j0i15i22i30.860j0j4&sourceid=chrome&ie=UTF-8'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -61,7 +61,7 @@
         "d": "none of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1  <a href='https://www.google.com/search?q=An+ammeter+is+connected+to+the+circuit&rlz=1C1UEAD_enIN972IN972&oq=An+ammeter+is+connected+to+the+circuit&aqs=chrome..69i57j0i22i30l3.732j0j9&sourceid=chrome&ie=UTF-8'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -78,7 +78,7 @@
         "d": "25ohm"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1  <a href='https://brainly.in/question/35378189'>here</a>",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
