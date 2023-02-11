@@ -1,4 +1,3 @@
-### Procedure
 A) Calibrating a voltmeter using a potentiometer is as follows:
 <br>
 1. Connect the potentiometer to a power source and adjust its resistance to produce a known voltage.
