@@ -1,5 +1,4 @@
 //Your JavaScript goes in here
-//Your JavaScript goes in here
 let x = 0;
 var circuit=false
 var circuit2=false
@@ -28,10 +27,8 @@ select.addEventListener("change", function() {
     svg1.style.display = "block";
   } else if (this.value === "image2") {
     svg2.style.display = "block";
-  }
-});
-
-
+   
+  }});
 
 
 
@@ -610,7 +607,7 @@ var rotation1_1=0;
 function switchonoff1_1() {
   
   rotation1 = 40;
-    if (rotateBtn1_1.style.fill == "red" && circuit2==false) {
+    if (rotateBtn1_1.style.fill == "red" && circuit==true) {
   
       //   image.style.transform=`translate(0,10)`;
   
@@ -625,16 +622,12 @@ function switchonoff1_1() {
       
   
   
-      leftShift();
-      rightShift();
     }
      else if (rotateBtn1_1.style.fill == "green" ) {
       rotateBtn1_1.style.fill = "red";
       image1_1.style.transform = `rotate(${-rotation1}deg)`;
       document.getElementById("switch1_1text").innerHTML = "On";
-      circuit = false;
-      rightShift();
-      leftShift();
+    
     } 
    
     
@@ -649,7 +642,7 @@ var rotation2_2=0;
 function switchonoff2_2() {
   
   rotation1 = 40;
-    if (rotateBtn2_2.style.fill == "red" && circuit2==false) {
+    if (rotateBtn2_2.style.fill == "red" && circuit1==true ) {
   
       //   image.style.transform=`translate(0,10)`;
   
@@ -664,16 +657,12 @@ function switchonoff2_2() {
       
   
   
-      leftShift();
-      rightShift();
     }
      else if (rotateBtn2_2.style.fill == "green" ) {
       rotateBtn2_2.style.fill = "red";
       image2_2.style.transform = `rotate(${-rotation1}deg)`;
       document.getElementById("switch2_2text").innerHTML = "On";
-      circuit = false;
-      rightShift();
-      leftShift();
+    
     } 
    
     
@@ -711,18 +700,19 @@ let rotation1 = 0;
 
 
 function switchonoff1() {
+
+
   
 rotation1 = 40;
-  if (rotateBtn1.style.fill == "red" && circuit2==false) {
+  if (circuit==false && circuit2==false ) {
 
     //   image.style.transform=`translate(0,10)`;
-
+console.log('sx');
 
     image1.style.transform = `rotate(${rotation1}deg)`;
     image1.style.transformOrigin = "442.65px 310.71px";
 
-
-    document.getElementById("switch1btn").style.fill = "green";
+    rotateBtn1.style.fill = "green";
     document.getElementById("switch1text").innerHTML = "Off";
 
     circuit = true;
@@ -731,7 +721,8 @@ rotation1 = 40;
     leftShift();
     rightShift();
   }
-   else if (rotateBtn1.style.fill == "green" ) {
+   else if (circuit==true ) {
+
     rotateBtn1.style.fill = "red";
     image1.style.transform = `rotate(${-rotation1}deg)`;
     document.getElementById("switch1text").innerHTML = "On";
@@ -753,7 +744,7 @@ var textBtn2 = document.getElementById("switch2text");
 function switchonoff2() {
   
   rotation = 40;
-    if (rotateBtn2.style.fill ==='red' && circuit==false) {
+    if (rotateBtn2.style.fill ==='red' && circuit==false ) {
   
       //   image.style.transform=`translate(0,10)`;
   
