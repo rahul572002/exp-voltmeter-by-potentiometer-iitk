@@ -15,9 +15,44 @@ Where,<br>
 Since we are using the standard resistor, the resistance will be accurately known and the voltage across the standard resistor is measured by the potentiometer. The calculated value will be the accurate value of the current flowing through the loop. Then compare this calculated value with ammeter reading to check the accuracy of the ammeter.<br>
 <br>
 <img src="images/img_amm_b_pot.png" width="400" hight="450">
+<br><br>
+The connecting are self-explanarory.In this circuit experiment the same current as simultaneously measured with the given instrument as potentiometer wire, when emf 'E' of a Denial cell is balanced on it. then we have 
 
+<p align="center">
+  E=L1*x
+</p>
 
+where,<br>
+'x' is the potential gradient along the potentiometer<br>
+where,<br>
 
+<p align="center">
+  x=E/L1          ...........................(1)
+</p>
+
+let l2 be the balancing length of potentiometer wire,where potential difference V2 across resistance R between M and N is balanced on it.<br>
+Then we have ,<br>
+
+<p align="center">
+  V2=x*L2        ............................(2)
+</p>
+from 1 and 2 we have,<br>
+<p align="center">
+  V2=E*(L2/L1)   ............................(3)
+</p>
+ here
+<p align="center">
+  I2=V2          ............................(4)
+</p>
+Substituting value of V2 from equation 3 and 4 
+
+<p align="center">
+  I2 = E*(L2/L1) ............................(5)
+</p>
+The error in the value observed by the ammeter can be written as,
+<p align="center">
+  ΔI=I2−I1 
+</p>
 
 
 <h3>2. Calibration of Voltmeter </h3>
