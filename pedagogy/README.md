@@ -89,30 +89,15 @@ It's important to note that calibrating electrical instruments requires a high d
 <hr>
 
 <a name="AQ"></a>
-#### 4. Task & Assessment Questions:
 
-  
-<br>
-
-Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
-:--|:--|:--|:-:
-1.|   <br>  |   <br>  | <br> 
-2.|   <br>  |   <br>  | <br> 
-
-
-<div align="right">
-    <b><a href="#top">↥ back to top</a></b>
-</div>
-<br/>
-<hr>
-
-<a name="SI"></a>
 
 #### 4. Simulator Interactions:
 <br>
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.|  As the student press on simulator ON button. Simulator will show the primary and secondary circuit and show them circuit component and allow to drag them.  <br> | Student will recognize the primary and secondary circuit and make connections as per theory sections suggest. <br> | To initiate the simulator and verify student concept of calibration. <br> |   
-2.|  Simulator will allow student to make connection as they required and allow jockey move over the wire length just on clicking on jockey. <br> | Student will connect known emf cell with primary circuit through the jockey of a galvanometer. By moving jockey student will find the value of potential gradient (K). <br> | Student will able to calculate the value of K. <br> |
-3.| Simulator will allow student to make and break connections as they required and allow jockey to move over the wire. <br> | Student will connect the component of secondary circuit with primary circuit after its student will move jockey and find the null point as per theory section. <br> | Student will able to check the value of volage drop by using potentiometer by taking aid of previous steps and also check the voltmeter reading across.  <br> |
+1.|  Simulator will show user two options first one is calibration of Voltmeter and second one is calibration of ammeter.  <br> | User will select the experiment which they want to perform. <br> | Calibration of Voltmeter selected <br> |   
+2.|  First user will see the circuit as shown in theory portions.  <br> | SNow user will connect standard EMF cell with primary circuit and move jockey of galvanometer in order to get zero deflection in galvanometer.  <br> | After getting zero deflection user will note the value at which zero deflection occurs by the aid of that that value user will find out the value of Potiometer constant (K) of the circuit. <br> |
+3.|  Now user will break the connection with primary and standard EMF cell.<br> | And make connections primary circuit with secondary (calibrated circuit). <br> | And varies the value of rehostatat set a resistor of secondary circuit .   <br> |
+4.| Now user will switch on the secondary circuit and move jockey on the scale . <br> | To note zero deflection in galvanometer and note the value of length at which zero deflection occurs any way user will find out the value of voltage (say V) And user will take reading from Voltmeter (say V') <br> |  Any way user will find out the value of error in measurement of voltage by Voltmeter and Potiometer. <br> |
+
