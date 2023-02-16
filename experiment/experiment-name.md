@@ -1,2 +1,2 @@
-### Calibration of ammeter and voltmeter by potentiometer.
+## Calibration of ammeter and voltmeter by potentiometer.
 
