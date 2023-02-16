@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -294,7 +293,7 @@
 				   c0-0.81,0.66-1.46,1.46-1.46h3.45C444.33,363.1,444.99,363.76,444.99,364.57z"/>
 			   <path class="rec5" d="M443.78,334.64v16.57c0,1.48-1.2,2.67-2.67,2.67h0c-1.48,0,0.86-6.45-2.67-2.67v-16.57
 				   c0-1.48,1.2-2.67,2.67-2.67h0C442.59,331.97,443.78,333.17,443.78,334.64z"/>
-			   <path id="switch2" class="rec5" d="M430.93,357.89l7.59,8.6c0.98,1.11,2.67,1.21,3.77,0.24l0,0c1.11-0.98,1.21-2.67,0.24-3.77l-7.59-8.6
+			   <path id="switch2A" class="rec5" d="M430.93,357.89l7.59,8.6c0.98,1.11,2.67,1.21,3.77,0.24l0,0c1.11-0.98,1.21-2.67,0.24-3.77l-7.59-8.6
 				   c-1.5-0.69-0.83,6.33-3.77-0.24h0C430.06,355.09,429.95,356.78,430.93,357.89z"/>
 			   <circle class="ban" cx="441.97" cy="365.79" r="2.88"/>
 		   </g>
@@ -303,7 +302,7 @@
 				   c0-0.81,0.66-1.46,1.46-1.46h3.69C445.13,307.24,445.79,307.89,445.79,308.7z"/>
 			   <path class="rec5" d="M444.53,270.45v21.42c0,1.91-1.24,3.45-2.78,3.45l0,0c-1.53,0,0.9-8.33-2.78-3.45v-21.42
 				   c0-1.91,1.24-3.45,2.78-3.45l0,0C443.29,267,444.53,268.55,444.53,270.45z"/>
-			   <path id="switch1" class="rec5" d="M431.18,300.5l7.88,11.12c1.01,1.43,2.77,1.57,3.92,0.31l0,0c1.15-1.26,1.26-3.45,0.25-4.88l-7.88-11.12
+			   <path id="switch1A" class="rec5" d="M431.18,300.5l7.88,11.12c1.01,1.43,2.77,1.57,3.92,0.31l0,0c1.15-1.26,1.26-3.45,0.25-4.88l-7.88-11.12
 				   c-1.56-0.9-0.86,8.19-3.92-0.31h0C430.28,296.89,430.17,299.07,431.18,300.5z"/>
 			   <ellipse class="ban"  cx="442.65" cy="310.71" rx="2.99" ry="3.72"/>
 		   </g>
@@ -311,14 +310,14 @@
 		   <text transform="matrix(1 0 0 1 241.5439 371.1113)" class="ban19 ban20">0 Ohm</text>
 		   <text transform="matrix(0.846 0 0 1 487.5439 523.1113)" class="ban19 ban20">0 Ohm</text>
 		   
-		   <rect x="327.5" y="553.5" class="ban23" width="54" height="26" onclick="switchonoff22()"/>
-		   <rect x="345.5" y="9.5" class="ban23" width="54" height="26" onclick="switchonoff11()"/>
+		   <rect  id="switch22btn" x="327.5" y="553.5" class="ban23" width="54" height="26" onclick="switchonoff22()"/>
+		   <rect id="switch11btn" x="345.5" y="9.5" class="ban23" width="54" height="26" onclick="switchonoff11()"/>
 		   
-		   <rect onclick="switchonoff1()"id="switch1btn" x="383.5" y="290.5" class="ban23" width="41" height="18"/>
-		   <rect onclick="switchonoff2()" id="switch2btn" x="380.5" y="342.5" class="ban23" width="44" height="15"/>
+		   <rect onclick="switchonoff1A()"id="switch1btnA" x="383.5" y="290.5" class="ban23" width="41" height="18"/>
+		   <rect onclick="switchonoff2A()" id="switch2btnA" x="380.5" y="342.5" class="ban23" width="44" height="15"/>
 		   <text transform="matrix(1 0 0 1 363.1426 27.8228)" id="switch11btntext" class="ban19 ban24">ON</text>
-		   <text transform="matrix(1 0 0 1 394.5298 355.022)" class="ban19 ban20" id="switch2btntext">ON</text>
-		   <text transform="matrix(1 0 0 1 396.5298 304.022)" class="ban19 ban20" id="switch1btntext">ON</text>
+		   <text transform="matrix(1 0 0 1 394.5298 355.022)" class="ban19 ban20" id="switch2btntextA">ON</text>
+		   <text transform="matrix(1 0 0 1 396.5298 304.022)" class="ban19 ban20" id="switch1btntextA">ON</text>
 		   <text transform="matrix(1 0 0 1 344.8213 571.3691)" id="switch22btntext" class="ban19 ban25">ON</text>
 		   <line class="ban18" x1="484.67" y1="212.39" x2="484.67" y2="246"/>
 		   <path class="ban26" d="M495.42,214.9c-3.25,0.06-6.5,0.12-9.75,0.19c-3.79,0.07-7.59,0.14-11.39,0.22
@@ -1650,5 +1649,6 @@
 		
 	<!-- Add JS at the bottom of HTML file --> 
         <script src="./js/main.js"></script>
+        <script src="./js/ammeter.js"></script>
 </body>
 </html>
