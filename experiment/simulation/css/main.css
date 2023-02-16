@@ -1,1 +1,41 @@
 /* You CSS goes in here */
+
+/* You CSS goes in here */
+*{
+    margin: 0px;
+
+}
+.simulation{
+    border: 20px solid yellowgreen;
+margin: 50px;
+border-radius: 10px;
+
+}
+.heading{
+    margin: 0px;
+    text-align: center;
+    background-color: crimson;
+    padding: 20px;
+    color: white;
+    box-shadow: 2px 2px 2px 2px black;
+}
+button{
+    margin: 10px;
+    background-color: rgb(245, 140, 3);
+    border-radius: 4px;
+    padding: 4px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+#start{
+    margin-left: 40%;
+    font-size: 20px;
+
+}
+select{
+    background-color: aquamarine;
+}
