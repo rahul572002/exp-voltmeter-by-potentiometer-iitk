@@ -14,12 +14,12 @@ Where,<br>
 <br><br>
 Since we are using the standard resistor, the resistance will be accurately known and the voltage across the standard resistor is measured by the potentiometer. The calculated value will be the accurate value of the current flowing through the loop. Then compare this calculated value with ammeter reading to check the accuracy of the ammeter.<br>
 <br>
-<img src="images/img_amm_b_pot.png" width="400" hight="450">
+<img src="images/mmm.png" width="400" hight="450">
 <br><br>
 The connecting are self-explanarory.In this circuit experiment the same current as simultaneously measured with the given instrument as potentiometer wire, when emf 'E' of a Denial cell is balanced on it. then we have 
 
 <p align="center">
-  E=L1*x
+ E=L<sub>1</sub>*x
 </p>
 
 where,<br>
@@ -27,31 +27,31 @@ where,<br>
 where,<br>
 
 <p align="center">
-  x=E/L1          ...........................(1)
+  x=E/L<sub>1</sub>         ...........................(1)
 </p>
 
 let l2 be the balancing length of potentiometer wire,where potential difference V2 across resistance R between M and N is balanced on it.<br>
 Then we have ,<br>
 
 <p align="center">
-  V2=x*L2        ............................(2)
+  V<sub>2</sub>=xL<sub>2</sub>        ............................(2)
 </p>
 from 1 and 2 we have,<br>
 <p align="center">
-  V2=E*(L2/L1)   ............................(3)
+  V<sub>2</sub>=E*(L<sub>2</sub>/L<sub>1</sub>)   ............................(3)
 </p>
  here
 <p align="center">
-  I2=V2          ............................(4)
+  I<sub>2</sub>=V<sub>2</sub>          ............................(4)
 </p>
 Substituting value of V2 from equation 3 and 4 
 
 <p align="center">
-  I2 = E*(L2/L1) ............................(5)
+  I<sub>2</sub> = E(L<sub>2</sub>/L<sub>1</sub>) ............................(5)
 </p>
 The error in the value observed by the ammeter can be written as,
 <p align="center">
-  ΔI=I2−I1 
+  ΔI=I<sub>2</sub>−I<sub>1</sub> 
 </p>
 
 
@@ -69,36 +69,36 @@ After completing the primary circuit as shown in the diagram, insert the plug be
 Let lo be the balancing length for Es. <br>
 <h4>                     
 <p align="center">
-  Es=k*lo
+  Es=kl<sub>o</sub>
 </p>
  </h4>
 Where, <br> k is the potential gradient from the above equation <br>we can write also the above equation, 
 <h4>                     
 <p align="center">
-  k=Es*lo 
+  k=E<sub>s</sub>l<sub>o</sub> 
 </p>
  </h4>
  
- <img src="images/img_volt_b_pot.png" width="400" hight="450">
+ <img src="images/mmmm.png" width="400" hight="450">
  
 <br>
 We can find k it by standardizing the cell. <br>
 Now we have to remove the plug between the terminals 1 and 2. And we have to insert it between the terminal 2 and 3. After closing the key K2 stake the suitable resistance from the resistance box. Using the rheostat adjust the current passing through the resistance and note down the deflection of the voltmeter. Let it be Vv. This value will not be accurate, it contains an error. The real value of potential difference can be obtained by the potentiometer. We have to find the corresponding balancing length. Let this balancing length be l2. By applying the principle of the potentiometer, the actual value of potential difference can be written as, <br>
 <h4>                     
 <p align="center">
-  V′=K*l2 
+  V′=Kl<sub>2</sub> 
 </p>
  </h4>
  We know that the value of k is
  <h4>                     
 <p align="center">
-  k=Es*lo 
+  k=E<sub>s</sub>l<sub>o</sub> 
 </p>
  </h4>
  Substituting, we get 
  <h4>                     
 <p align="center">
-   V′=(Es*lo) * l2 
+   V′=(E <sub>s</sub>l<sub>o</sub>) l<sub>2</sub> 
 </p>
  </h4>
 The error in the value observed by the voltmeter can be written as, 
@@ -109,4 +109,4 @@ The error in the value observed by the voltmeter can be written as,
  </h4>
 Using the resistance box and the rheostat, different values of voltmeter can be observed. The corresponding potential difference can also be obtained by using the potentiometer. The difference between the observation of the voltmeter and the potential difference by the potentiometer can be used to find the error. 
 
- 
+
