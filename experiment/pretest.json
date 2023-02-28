@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1. Five volts is applied to 2-ohm resistor in series, the resulting current ",
+      "question": "1.Five volts is applied to 2-ohm resistor in series, the resulting current ",
       "answers": {
         "a": "2.5",
         "b": "25",
@@ -19,7 +19,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "2. In a circuit, the current is directly proportional to __________. ",
+      "question": "2.In a circuit, the current is directly proportional to __________. ",
       "answers": {
         "a": "voltage",
         "b": "resistor",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "3. SI unit of potential gradient   ",
+      "question": "3.SI unit of potential gradient   ",
       "answers": {
         "a": "Volt/meter",
         "b": "Volt meter",
@@ -53,7 +53,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "4. An ammeter is connected to the circuit   ",
+      "question": "4.An ammeter is connected to the circuit   ",
       "answers": {
         "a": "Parallel",
         "b": "Series",
@@ -70,7 +70,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "5. Five 10-ohm resistor connected in parallel then its equivalents resistor will be ",
+      "question": "5.Five 10-ohm resistor connected in parallel then its equivalents resistor will be ",
       "answers": {
         "a": "2ohm",
         "b": "10ohm",
