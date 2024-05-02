@@ -1,4 +1,4 @@
-A) Calibrating a Ammeter using a potentiometer is as follows:
+<h3>A) Calibrating a Ammeter using a potentiometer is as follows:</h3>
 <br>
 Calibrating an ammeter using a potentiometer involves comparing the readings of the ammeter with the known voltage drops across a resistor. Here's a general procedure to calibrate an ammeter using a potentiometer:
 <br>
@@ -29,15 +29,15 @@ Remember to exercise caution while working with electrical circuits, especially 
 <br>
 
 <h3>B) Calibrating an voltmeter using a potentiometer is as follows:</h3>
-   
 <br>
 Calibrating a voltmeter with a potentiometer involves adjusting the potentiometer until the voltage output matches the desired value indicated on the voltmeter. Here's a general procedure:
 <br>
+
 1. Setup:<br>
    (a) Connect the voltmeter to the circuit or device you want to measure the voltage of. Ensure the circuit is powered on if necessary.<br>
-   (b) Connect the potentiometer in series with the voltmeter.
+   (b) Connect the potentiometer in series with the voltmeter.<br>
 2. Initial Setup:<br>
-   (a) Set the potentiometer to its midpoint initially. This ensures that you have room to both increase and decrease the voltage output.
+   (a) Set the potentiometer to its midpoint initially. This ensures that you have room to both increase and decrease the voltage output.<br>
 3. Adjustment:<br>
    (a) Turn on the voltmeter and observe the reading.<br>
    (b) Adjust the potentiometer knob slowly until the voltmeter reads the desired voltage.<br>
