@@ -3,23 +3,23 @@ A) Calibrating a Ammeter using a potentiometer is as follows:
 Calibrating an ammeter using a potentiometer involves comparing the readings of the ammeter with the known voltage drops across a resistor. Here's a general procedure to calibrate an ammeter using a potentiometer:
 <br>
 
-1. Set up the Circuit:
+1. Set up the Circuit:<br>
    (a) Connect the potentiometer in series with the ammeter and a power supply. The ammeter should be connected in series so that the entire current flows through it.<br>
-   (b) Ensure that the potentiometer is connected so that the current flows from the positive terminal of the power supply, through the potentiometer, through the ammeter, and back to the negative terminal of the power supply.  
-2. Adjust Potentiometer:
-   (a) Adjust the potentiometer so that a known voltage drop (let's say V) is created across it. You can calculate this voltage drop using Ohm's law: V = I * R, where I is the current flowing through the circuit and R is the resistance of the potentiometer.  
-3. Measure Current:
-   (a) Read the current indicated by the ammeter.
-4. Compare Readings:
+   (b) Ensure that the potentiometer is connected so that the current flows from the positive terminal of the power supply, through the potentiometer, through the ammeter, and back to the negative terminal of the power supply.  <br>
+2. Adjust Potentiometer:<br>
+   (a) Adjust the potentiometer so that a known voltage drop (let's say V) is created across it. You can calculate this voltage drop using Ohm's law: V = I * R, where I is the current flowing through the circuit and R is the resistance of the potentiometer.  <br>
+3. Measure Current:<br>
+   (a) Read the current indicated by the ammeter.<br>
+4. Compare Readings:<br>
    (a) Compare the current indicated by the ammeter with the calculated current (I) from the known voltage drop across the potentiometer.<br>
-   (b) If there is a discrepancy between the two readings, adjust the calibration of the ammeter accordingly. Some ammeters have a calibration screw or knob that allows you to adjust the reading.
-5. Repeat if Necessary:
-   (a) If the readings are not matching, repeat the process by adjusting the potentiometer and recalibrating the ammeter until you achieve accurate readings.
-6. Validation:
-   (a) Once you are satisfied with the calibration, you can validate it by measuring currents in other circuits and comparing them with known values.
-7. Final Adjustment:
-   (a) Once you're confident in the calibration, make any final adjustments to the ammeter if necessary and ensure that it is securely fixed in its housing.
-8. Documentation:
+   (b) If there is a discrepancy between the two readings, adjust the calibration of the ammeter accordingly. Some ammeters have a calibration screw or knob that allows you to adjust the reading.<br>
+5. Repeat if Necessary:<br>
+   (a) If the readings are not matching, repeat the process by adjusting the potentiometer and recalibrating the ammeter until you achieve accurate readings.<br>
+6. Validation:<br>
+   (a) Once you are satisfied with the calibration, you can validate it by measuring currents in other circuits and comparing them with known values.<br>
+7. Final Adjustment:<br>
+   (a) Once you're confident in the calibration, make any final adjustments to the ammeter if necessary and ensure that it is securely fixed in its housing.<br>
+8. Documentation:<br>
    (a) Record the calibration process, including any adjustments made, and keep this documentation for future reference.
 <br>
 Remember to exercise caution while working with electrical circuits, especially when dealing with power supplies and live wires. Ensure that all connections are secure and that the equipment is handled safely to avoid accidents.
