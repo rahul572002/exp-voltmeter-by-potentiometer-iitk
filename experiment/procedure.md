@@ -8,10 +8,8 @@ Materials Required:
 3. Power supply
 4. Connecting wires
 5. Resistors for creating voltage drops (optional)
-
-<br>
 1. Set up the Circuit:
-   (a) Connect the potentiometer in series with the ammeter and a power supply. The ammeter should be connected in series so that the entire current flows through it.
+   (a) Connect the potentiometer in series with the ammeter and a power supply. The ammeter should be connected in series so that the entire current flows through it.<br>
    (b) Ensure that the potentiometer is connected so that the current flows from the positive terminal of the power supply, through the potentiometer, through the ammeter, and back to the negative terminal of the power supply.
    
 2. Adjust Potentiometer:
