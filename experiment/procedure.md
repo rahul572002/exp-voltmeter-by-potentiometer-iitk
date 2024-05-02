@@ -26,9 +26,9 @@ Remember to exercise caution while working with electrical circuits, especially 
 
 <br>
 <br>
+<br>
 
-
-B) Calibrating an voltmeter using a potentiometer is as follows:
+<h3>B) Calibrating an voltmeter using a potentiometer is as follows:
 <br>
 Calibrating a voltmeter with a potentiometer involves adjusting the potentiometer until the voltage output matches the desired value indicated on the voltmeter. Here's a general procedure:
 <br>
