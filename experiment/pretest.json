@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "1.Five volts is applied to 2-ohm resistor in series, the resulting current ",
+      "question": "1.Five volts is applied two 2 ohm resistors in series. Then what is the resulting current? ",
       "answers": {
         "a": "2.5",
         "b": "25",
@@ -13,7 +13,7 @@
         "a": "Explanation 2",
         "b": "Explanation 2",
         "c": "Explanation 2",
-        "d": "Explanation 1 <a href='https://wps.prenhall.com/esm_giancoli_physicsppa_6/17/4357/1115571.cw/content/index.html#:~:text=Five%20volts%20is%20applied%20to%20two%202%20ohm%20resistors%20connected,5%20A.'>here</a>"
+        "d": "Explanation 1 <a href='Five volts is applied two 2 ohm resistors in series. Then what is the resulting current? '>here</a>"
       },
       "correctAnswer": "d",
       "difficulty": "beginner"
